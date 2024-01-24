@@ -1,4 +1,4 @@
-const chaveDeAcesso = "o1QBUY9zg570Kwxh-88UwDFUAdixtgX0T3BbcTooLYw";
+const chaveDeAcesso = "";
 
 const pesquisarForm = document.getElementById("pesquisar-form");
 const campoDePesquisa = document.getElementById("campo-de-pesquisa");
